@@ -1,3 +1,5 @@
+//       FALTA FAZER A DEFESA E MELHORAR O CÓDIGO (17/04/24)
+
 #include<stdio.h>
 
 int main() {
