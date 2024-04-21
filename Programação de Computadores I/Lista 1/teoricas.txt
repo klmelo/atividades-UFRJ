@@ -1,3 +1,8 @@
+Resolução da lista 1 - Programação de Computadores I
+Al: K. L. Melo; DRE: x; 
+21/04/2024;
+* = Link externo que leva à resolução.
+
 1.
 
 int main(){
@@ -16,7 +21,6 @@ y = y+y * y; //y = 18
 
 
 2.
-
 As lógicas realizam operações lógicas (como no pensamento dedutivo da matemática), usando de operadores como "e" (&&), "ou" (||), "não" (!) et cetera;
 As relacionais são comparações entre dois valores, usando de operadores como >, <, >=, <=, !=, == e relacionam um valor ao outro de forma a comparar os dois (retornando um resultado de verdadeiro ou falso).
 
@@ -25,7 +29,7 @@ As relacionais são comparações entre dois valores, usando de operadores como 
 Uma variável é um espaço na memória unicamente identificavel, ou seja, duas variáveis não podem ser identificadas por um programa da mesma forma, são "únicas". As variáveis são utilizadas pelo programa para acessos de leitura e/ou escrita de dados.
 A variável possui o identificador (um símbolo que representa uma entidade criada pelo programador); um endereço de memória e dado.
 
-*4.
+*4. https://raw.githubusercontent.com/klmelo/atividades-UFRJ/main/Programa%C3%A7%C3%A3o%20de%20Computadores%20I/Lista%201/exercicio4.c
 
 5.
 
@@ -46,9 +50,6 @@ INICIO
 FIM
 			     
 
-
-FIM
-
 6.
 
 Um algorítmo é uma sequência pré determinada de passos que tem a finalidade de ralizar uma tarefa específica de forma precisa. Um programa é um conjunto de algoritmos escritos em uma linguagem de programação específica para instruir um computador a executar uma ou mais tarefas com precisão. Um programa é a implementação concreta num computador do conceito de algoritmo.
@@ -60,7 +61,7 @@ b) Dicionário de dados, que define os dados que serão usados no programa;
 c) Corpo, que apresenta os procedimentos que o programa deve executar;
 d) Documentação, que comenta certos aspectos do programa.
 
-*8.
+*8. https://raw.githubusercontent.com/klmelo/atividades-UFRJ/main/Programa%C3%A7%C3%A3o%20de%20Computadores%20I/Lista%201/exercicio8.c
 
 9.
 
