@@ -1,0 +1,79 @@
+1.
+
+int main(){
+float p, q, r;
+int x, y;
+r = 15 / 2; //r = 7.5
+r = r + 1.3; //r = 8.8
+x = 2099 / 100.0; //x = 20
+y = x - 0.1; //y = 19
+p = y % 10; //p = 9
+q = p + 1; //q = 10
+x = q - 1.1; //x = 8
+y = x - 5; //y = 3
+y = y+y * y; //y = 18
+}
+
+
+2.
+
+As lógicas realizam operações lógicas (como no pensamento dedutivo da matemática), usando de operadores como "e" (&&), "ou" (||), "não" (!) et cetera;
+As relacionais são comparações entre dois valores, usando de operadores como >, <, >=, <=, !=, == e relacionam um valor ao outro de forma a comparar os dois (retornando um resultado de verdadeiro ou falso).
+
+3.
+
+Uma variável é um espaço na memória unicamente identificavel, ou seja, duas variáveis não podem ser identificadas por um programa da mesma forma, são "únicas". As variáveis são utilizadas pelo programa para acessos de leitura e/ou escrita de dados.
+A variável possui o identificador (um símbolo que representa uma entidade criada pelo programador); um endereço de memória e dado.
+
+*4.
+
+5.
+
+INICIO
+	Declara-se os inteiros x, c, d, u;
+	Diz("Dê-me um número positivo de 3 algarismos")
+		   Lê("x")
+			Se("x é negativo, menor ou igual a 99 ou maior que 999")
+		   	      Diz("O número não cumpre os requisitos");
+		   Se não
+			c = x/100;
+			d = (x%100)/10;
+			u = x%10;
+		   Se(c³ + d³ + u² = x)
+		      Diz("O número cumpre a condição.");
+		   Se não
+		      Diz("O número não cumpre a condição.");
+FIM
+			     
+
+
+FIM
+
+6.
+
+Um algorítmo é uma sequência pré determinada de passos que tem a finalidade de ralizar uma tarefa específica de forma precisa. Um programa é um conjunto de algoritmos escritos em uma linguagem de programação específica para instruir um computador a executar uma ou mais tarefas com precisão. Um programa é a implementação concreta num computador do conceito de algoritmo.
+
+7.
+
+a) Cabeçalho, que traz as principais informações sobre o programa;
+b) Dicionário de dados, que define os dados que serão usados no programa;
+c) Corpo, que apresenta os procedimentos que o programa deve executar;
+d) Documentação, que comenta certos aspectos do programa.
+
+*8.
+
+9.
+
+Os refinamentos sucessivos dividem uma terefa maior em tarefas menos e mais detalhadas, fazendo, dessa forma, um detalhamento progressivo de um algorítmo.
+
+10.
+
+INICIO
+	Declara os racionais x1, x2, y1, y2;
+	Diz("Qual o par x, y?");
+		  Lê("x1, y2");
+	Diz("Qual o outro par x, y cuja distância com o primeiro deseja-se calcular?");
+		  Lê("x2, y2");
+	Distância = ((|x2-x1|)² + (|y2 - y1|)²)^(1/2);
+	Diz("A distância entre os pontos é 'distância'");
+FIM
