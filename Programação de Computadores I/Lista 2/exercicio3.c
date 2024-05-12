@@ -1,3 +1,13 @@
+/*
+Autor: K. L. Melo;
+Data: 11/05/2024;
+Descrição: Programa que retorna o desenho de um triângulo feito com asteriscos e, com base no parâmetro de inversão (número positivo ou negativo), inverte o triângulo (para números negativos).;
+Entrada: Um número inteiro.;
+Saída: O desenho de um triângulo feito com asteriscos.;
+Defesa: Números negativos ou maiores que 10 (para a quantidade de linhas).
+*/
+
+
 #include <stdio.h>
 void arvore(int linhas, int invertida);
 int main(){

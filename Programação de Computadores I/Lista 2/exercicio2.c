@@ -1,3 +1,11 @@
+/*
+Autor: K. L. Melo;
+Data: 11/05/2024;
+Descrição: Programa que imprime uma figura de triângulo;
+Entrada: Um número natural;
+Saída: O desenho de uma pirâmide feita com asteriscos;
+Defesa: Números negativos ou maiores que 10.
+*/
 #include <stdio.h>
 int main(){
     int n;
