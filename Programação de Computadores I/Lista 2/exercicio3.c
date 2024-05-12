@@ -6,8 +6,6 @@ Entrada: Um número inteiro.;
 Saída: O desenho de um triângulo feito com asteriscos.;
 Defesa: Números negativos ou maiores que 10 (para a quantidade de linhas).
 */
-
-
 #include <stdio.h>
 void arvore(int linhas, int invertida);
 int main(){
