@@ -1,7 +1,7 @@
 /*
 Autor: K. L. Melo;
 Data: 07/07/2024;
-Descrição: O programa ordena pessoas por idade e verifica se uma idade dada pelo usuário é uma das idades das pessoas;
+Descrição: O programa ordena pessoas (de forma decrescente) por idade e verifica se uma idade dada pelo usuário é uma das idades das pessoas;
 Entrada: Dados de n pessoas e uma idade qualquer;
 Saída: O nome da pessoa cuja idade é a mesma da digitada ou que não há pessoas com essa idade;
 Defesa: N/A
