@@ -1,3 +1,12 @@
+/*
+Autor: K. L. Melo;
+Data: 07/07/2024;
+Descrição: O programa procura uma palavra em um texto;
+Entrada: Um texto e uma palavra;
+Saída: Se a palavra está no texto e o índice em que ela se encontra;
+Defesa: N/A
+*/
+
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
