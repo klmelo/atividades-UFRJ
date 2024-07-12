@@ -1,3 +1,12 @@
+/*
+Autor: K. L. Melo;
+Data: 07/07/2024;
+Descrição: O programa converte as letras minúsculas para maiúsculas;
+Entrada: Uma palavra;
+Saída: A palavra com letras maiúsculas;
+Defesa: N/A
+*/
+
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
