@@ -1,3 +1,12 @@
+/*
+Autor: K. L. Melo;
+Data: 07/07/2024;
+Descrição: O programa ordena pessoas por idade (de forma crescente) e verifica se um peso dado pelo usuário é uma dos pesos das pessoas;
+Entrada: Dados de n pessoas e um peso qualquer;
+Saída: O nome da pessoa cujo peso é o mesmo do digitada ou que não há pessoas com esse peso;
+Defesa: N/A
+*/
+
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
