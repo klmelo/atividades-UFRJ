@@ -1,3 +1,12 @@
+/*
+Autor: K. L. Melo;
+Data: 07/07/2024;
+Descrição: O programa retorna o determinante de uma matriz 3x3;
+Entrada: Uma matriz 3x3;
+Saída: O determinante dessa matriz;
+Defesa: N/A
+*/
+
 #include <stdio.h>
 int main(void){
     float matriz[3][3];
