@@ -1,3 +1,12 @@
+/*
+Autor: K. L. Melo;
+Data: 07/07/2024;
+Descrição: O programa vê se um polinômio é múltiplo do outro;
+Entrada: Dois polinômios;
+Saída: Verdadeiro ou falso;
+Defesa: N/A
+*/
+
 #include <stdio.h>
 typedef struct{
     int coeficientes[3];
