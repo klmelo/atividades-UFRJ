@@ -1,0 +1,4 @@
+Nome: kaua; P1: 1.000000; P2: 5.200000; Trabalho: 9.000000
+Nome: julia; P1: 1.000000; P2: 2.000000; Trabalho: 3.000000
+Nome: lucas; P1: 6.000000; P2: 9.000000; Trabalho: 6.000000
+Nome: marquinhos; P1: 4.000000; P2: 4.000000; Trabalho: 4.990000
